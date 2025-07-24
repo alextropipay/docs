@@ -49,7 +49,7 @@
       },
       {
         "tab": "API Reference",
-        "spec": "https://revo-dev-bdd285a1f80f.herokuapp.com/swagger/doc.json"
+        "spec": "/api-reference/openapi.json"
       }
     ],
     "global": {
