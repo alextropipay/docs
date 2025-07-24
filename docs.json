@@ -48,14 +48,13 @@
         ]
       },
       {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
+        "tab":  [
+    {
+        "tab": "API Reference",
+        "openapi": "https://revo-dev-bdd285a1f80f.herokuapp.com/swagger/doc.json"
+    }
+  ]
+      },
           {
             "group": "Endpoint examples",
             "pages": [
